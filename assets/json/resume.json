@@ -30,6 +30,7 @@
     },
     {
       "name": "Center for Cardiac Arrhythmias of Genetic Origin and Laboratory of Cardiovascular Genetics - Istituto Auxologico Italiano",
+      "supervisor:" "Peter J Schwartz"
       "position": "Affiliated Researcher",
       "startDate": "2022-12-20",
       "endDate": "today",
@@ -38,10 +39,10 @@
     },
     {
       "name": "Department of Anatomy and Embryology - Leiden University Medical Center",
-      "Supervisor"
+      "supervisor:" "Christine L Mummery"
       "position": "Postdoctoral Fellow",
-      "startDate": "2022-12-20",
-      "endDate": "today",
+      "startDate": "2015-02-01",
+      "endDate": "2017-12-31",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
       "highlights": ["Relativity"]
     }
