@@ -1,34 +1,31 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Luca Sala",
+    "label": "PhD",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
     "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "summary": "Assistant Professor (RTD-A) in Physiology, University of Milano - Bicocca, Italy and Center for Cardiac Arrhythmias of Genetic Origin and Laboratory of Cardiovascular Genetics, Istituto Auxologico Italiano, Milan, Italy.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Via Giuseppe Zucchi 18",
+      "postalCode": "20095",
+      "city": "Cusano Milanino (MI)",
+      "countryCode": "IT",
+      "region": "Lombardy"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "X",
+        "username": "luca__sala",
+        "url": "https://x.com/Luca__Sala"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
+      "name": "Department of Biotechnologies and Biosciences - University of Milano - Bicocca",
+      "position": "Assistant Professor of Physiology (RTD-A)",
+      "startDate": "2022-12-20",
+      "endDate": "2025-12-21",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
       "highlights": ["Relativity"]
     }
