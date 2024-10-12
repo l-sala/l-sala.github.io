@@ -3,7 +3,7 @@
     "name": "Luca Sala",
     "label": "PhD",
     "image": "",
-    "summary": "My work is focussed on the study of congenital and acquired cardiac arrhythmias with human and patient-specific in vitro models based on human induced pluripotent stem cells. \nWith my research, I aim to to understand the complexity of genotype-phenotype relationships for cardiac arrhythmias and to use in vitro data to provide relevant information to clinicians for patient risk-stratification and precision medicine. \nTo ultimately reduce the need of animals in pharmacological and toxicological research, I aim to optimise current drug screening platforms by using patient-specific human-based models and advanced hardware and software tools. \nIn my free time, I like to code 👨🏻‍💻, ride my mountain bike 🚵🏻‍♂️ and run🏃🏻.",
+    "summary": "My work is focussed on the study of congenital and acquired cardiac arrhythmias with human and patient-specific in vitro models based on human induced pluripotent stem cells. With my research, I aim to to understand the complexity of genotype-phenotype relationships for cardiac arrhythmias and to use in vitro data to provide relevant information to clinicians for patient risk-stratification and precision medicine. To ultimately reduce the need of animals in pharmacological and toxicological research, I aim to optimise current drug screening platforms by using patient-specific human-based models and advanced hardware and software tools. In my free time, I like to code 👨🏻‍💻, ride my mountain bike 🚵🏻‍♂️ and run🏃🏻.",
     "location": {
       "address": "Via Giuseppe Zucchi 18",
       "postalCode": "20095",
@@ -31,6 +31,15 @@
     {
       "name": "Center for Cardiac Arrhythmias of Genetic Origin and Laboratory of Cardiovascular Genetics - Istituto Auxologico Italiano",
       "position": "Affiliated Researcher",
+      "startDate": "2022-12-20",
+      "endDate": "today",
+      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "highlights": ["Relativity"]
+    },
+    {
+      "name": "Department of Anatomy and Embryology - Leiden University Medical Center",
+      "Supervisor"
+      "position": "Postdoctoral Fellow",
       "startDate": "2022-12-20",
       "endDate": "today",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
