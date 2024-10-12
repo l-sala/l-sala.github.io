@@ -25,7 +25,15 @@
       "name": "Department of Biotechnologies and Biosciences - University of Milano - Bicocca",
       "position": "Assistant Professor of Physiology (RTD-A)",
       "startDate": "2022-12-20",
-      "endDate": "2025-12-21",
+      "endDate": "today",
+      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "highlights": ["Relativity"]
+    },
+    {
+      "name": "Center for Cardiac Arrhythmias of Genetic Origin and Laboratory of Cardiovascular Genetics - Istituto Auxologico Italiano",
+      "position": "Affiliated Researcher",
+      "startDate": "2022-12-20",
+      "endDate": "today",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
       "highlights": ["Relativity"]
     }
