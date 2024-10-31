@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD, scientist, 🚴‍♂️. I work on cardiac arrhythmias, drug discovery and precision medicine with human induced pluripotent stem cells. In ❤️ with data.
 
 profile:
   align: right
@@ -10,7 +10,9 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Center for Cardiac Arrhythmias of Genetic Origin</p>
+    <p> </p>
     <p>Laboratory of Cardiovascular Genetics</p>
+    <p> </p>
     <p>Via Zucchi 18</p>
     <p>20095 Cusano Milanino (MI), Italy</p>
 
