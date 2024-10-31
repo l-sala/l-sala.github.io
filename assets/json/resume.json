@@ -167,11 +167,7 @@
     {
       "name": "Physiology",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Cellular Electrophysiology",
-        "Human induced pluripotent stem cells",
-        "Congenital and Acquired Cardiac Arrhythmias"
-      ]
+      "keywords": ["Cellular Electrophysiology", "Human induced pluripotent stem cells", "Congenital and Acquired Cardiac Arrhythmias"]
     }
   ],
   "references": [
