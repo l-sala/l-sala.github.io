@@ -9,8 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Center for Cardiac Arrhythmias of Genetic Origin</p>
-    <p> </p>
+    <p style="color:blue; font-weight: bold; text-align: center;">Center for Cardiac Arrhythmias of Genetic Origin</p>    <p> </p>
     <p>Laboratory of Cardiovascular Genetics</p>
     <p> </p>
     <p>Via Zucchi 18</p>
