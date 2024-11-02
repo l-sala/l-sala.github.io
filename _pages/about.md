@@ -9,13 +9,13 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p style="color:blue; font-weight: bold; text-align: center;">Center for Cardiac Arrhythmias of Genetic Origin</p>    <p> </p>
+    <p style="color:blue; font-weight: bold; text-align: left;">Center for Cardiac Arrhythmias of Genetic Origin</p>    <p> </p>
     <p>Laboratory of Cardiovascular Genetics</p>
     <p> </p>
     <p>Via Zucchi 18</p>
     <p>20095 Cusano Milanino (MI), Italy</p>
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
