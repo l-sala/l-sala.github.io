@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p style="color:blue; font-weight: bold; text-align: left;">Center for Cardiac Arrhythmias of Genetic Origin</p>    <p> </p>
+    <p style="color:cyan; font-weight: bold; text-align: left;">Center for Cardiac Arrhythmias of Genetic Origin</p>    <p> </p>
     <p>Laboratory of Cardiovascular Genetics</p>
-    <p> </p>
+    <p></p>
     <p>Via Zucchi 18</p>
     <p>20095 Cusano Milanino (MI), Italy</p>
 
@@ -28,4 +28,4 @@ With my research, I aim to to understand the complexity of genotype-phenotype re
 
 To ultimately reduce the need of animals in pharmacological and toxicological research, I aim to optimise current drug screening platforms by using patient-specific human-based models and advanced hardware and software tools.
 
-In my free time, I like to code 👨🏻‍💻, ride my mountain bike 🚵🏻‍♂️ and run🏃🏻.
+In my free time, I like to code 👨🏻‍💻, ride my mountain bike 🚵🏻‍♂️ and run 🏃🏻.
