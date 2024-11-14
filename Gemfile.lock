@@ -215,8 +215,9 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
+  activesupport (~> 7.2.1)
   classifier-reborn
-  css_parser
+  css_parser (~> 1.19.0)
   feedjira
   httparty
   jekyll
@@ -236,7 +237,10 @@ DEPENDENCIES
   jekyll-toc
   jekyll-twitter-plugin
   jemoji
-  mini_racer
+  libv8-node (~> 22.7.0.4)
+  mini_racer (~> 0.15.0)
+  rexml (~> 3.3.7)
+  sass-embedded (~> 1.79.3)
   unicode_utils
   webrick
 

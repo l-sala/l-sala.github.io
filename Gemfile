@@ -18,12 +18,17 @@ group :jekyll_plugins do
     gem 'jekyll-toc'
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
-    gem 'mini_racer'
+    #gem 'mini_racer'
     gem 'unicode_utils'
     gem 'webrick'
+    gem 'mini_racer', '~> 0.15.0'
+    gem 'libv8-node', '~> 22.7.0.4', platforms: [:ruby]
+    gem 'sass-embedded', '~> 1.79.3', platforms: [:ruby]
+    gem 'rexml', '~> 3.3.7'
+    gem 'activesupport', '~> 7.2.1'
 end
 group :other_plugins do
-    gem 'css_parser'
+    gem 'css_parser', '~> 1.19.0'
     gem 'feedjira'
     gem 'httparty'
 end
