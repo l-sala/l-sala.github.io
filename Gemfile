@@ -27,6 +27,7 @@ group :jekyll_plugins do
     gem 'sass-embedded', '~> 1.79.3', platforms: [:ruby]
     gem 'rexml', '~> 3.3.7'
     gem 'activesupport', '~> 7.2.1'
+    gem "concurrent-ruby", "1.3.5"
 end
 group :other_plugins do
     gem 'css_parser', '~> 1.19.0'
