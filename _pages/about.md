@@ -13,7 +13,6 @@ profile:
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
-
 ---
 
 I work in the Department of Biotechnology and Biosciences of the University of Milano - Bicocca and I am affiliated researcher to the Center for Cardiac Arrhythmias of Genetic Origin and Laboratory of Cardiovascular Genetics of the Istituto Auxologico Italiano IRCCS.
