@@ -12,8 +12,8 @@ profile:
     <p style="color:#1F7A8C; font-weight: bold; text-align: left;">Center for Cardiac Arrhythmias of Genetic Origin and Laboratory of Cardiovascular Genetics</p>
 
 news: false # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 ---
 
 {% include figure.liquid loading="eager" path="assets/img/home.gif" class="img-fluid
