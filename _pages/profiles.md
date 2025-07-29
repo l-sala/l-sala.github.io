@@ -19,5 +19,4 @@ profiles:
       <p> </p>
       <p>Via Zucchi 18</p>
       <p>20095 Cusano Milanino (MI), Italy</p>
-
 ---
