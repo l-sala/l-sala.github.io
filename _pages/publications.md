@@ -13,6 +13,10 @@ nav_order: 2
 
 {% include bib_search.liquid %}
 
+<div style="text-align: right; font-size: 0.8rem; margin-bottom: 1rem;">
+  * = shared-first author<br># = (shared) corresponding author
+</div>
+
 <div class="publications">
 
 {% bibliography %}
