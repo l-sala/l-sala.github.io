@@ -1,9 +1,145 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"NatComm":
+  url: https://www.nature.com/ncomms/
+  color: "#E8620A"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"CircRes":
+  url: https://www.ahajournals.org/journal/res
+  color: "#CC0000"
 
-"Vision":
-  color: "#009f36"
+"EHJ":
+  url: https://academic.oup.com/eurheartj
+  color: "#1B365D"
+
+"Circ":
+  url: https://www.ahajournals.org/journal/circ
+  color: "#CC0000"
+
+"EMBO MM":
+  url: https://www.embopress.org/journal/emmm
+  color: "#00457C"
+
+"BJP":
+  url: https://bpspubs.onlinelibrary.wiley.com/journal/14765381
+  color: "#6B2D5B"
+
+"CVR":
+  url: https://academic.oup.com/cardiovascres
+  color: "#1B365D"
+
+"Europace":
+  url: https://academic.oup.com/europace
+  color: "#1B365D"
+
+"StemCellRep":
+  url: https://www.cell.com/stem-cell-reports/home
+  color: "#007A33"
+
+"CellStemCell":
+  url: https://www.cell.com/cell-stem-cell/home
+  color: "#007A33"
+
+"CommBiol":
+  url: https://www.nature.com/commsbio/
+  color: "#E8620A"
+
+"GenMed":
+  url: https://www.gimjournal.org/
+  color: "#0072CE"
+
+"FrontPhysiol":
+  url: https://www.frontiersin.org/journals/physiology
+  color: "#1E88E5"
+
+"FrontCVM":
+  url: https://www.frontiersin.org/journals/cardiovascular-medicine
+  color: "#1E88E5"
+
+"LightSciApp":
+  url: https://www.nature.com/lsa/
+  color: "#E8620A"
+
+"AdvSci":
+  url: https://onlinelibrary.wiley.com/journal/21983844
+  color: "#5C2D91"
+
+"CellDeathDis":
+  url: https://www.nature.com/cddiscovery/
+  color: "#E8620A"
+
+"ESWA":
+  url: https://www.sciencedirect.com/journal/expert-systems-with-applications
+  color: "#0072CE"
+
+"medRxiv":
+  url: https://www.medrxiv.org/
+  color: "#0D47A1"
+
+"bioRxiv":
+  url: https://www.biorxiv.org/
+  color: "#0D47A1"
+
+"VascPharm":
+  url: https://www.sciencedirect.com/journal/vascular-pharmacology
+  color: "#0072CE"
+
+"Book":
+  color: "#795548"
+
+"CurrOpCard":
+  url: https://journals.lww.com/co-cardiology
+  color: "#00457C"
+
+"CircGPM":
+  url: https://www.ahajournals.org/journal/circgen
+  color: "#CC0000"
+
+"CircAE":
+  url: https://www.ahajournals.org/journal/circep
+  color: "#CC0000"
+
+"SCR":
+  url: https://www.sciencedirect.com/journal/stem-cell-research
+  color: "#007A33"
+
+"BBRC":
+  url: https://www.sciencedirect.com/journal/biochemical-and-biophysical-research-communications
+  color: "#0072CE"
+
+"ActaPhysiol":
+  url: https://onlinelibrary.wiley.com/journal/17481716
+  color: "#6B2D5B"
+
+"AER":
+  url: https://www.aerjournal.com/
+  color: "#CC0000"
+
+"CurrProt":
+  url: https://currentprotocols.onlinelibrary.wiley.com/
+  color: "#6B2D5B"
+
+"JoVE":
+  url: https://www.jove.com/
+  color: "#E65100"
+
+"Dev":
+  url: https://journals.biologists.com/dev
+  color: "#2E7D32"
+
+"BJ":
+  url: https://www.cell.com/biophysj/home
+  color: "#007A33"
+
+"PflArch":
+  url: https://link.springer.com/journal/424
+  color: "#1565C0"
+
+"JCMM":
+  url: https://onlinelibrary.wiley.com/journal/15824934
+  color: "#6B2D5B"
+
+"CDD":
+  url: https://www.nature.com/cdd/
+  color: "#E8620A"
+
+"Proc":
+  color: "#607D8B"

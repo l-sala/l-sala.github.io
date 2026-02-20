@@ -3,95 +3,89 @@
   contents:
     - name: Full Name
       value: Luca Sala
-    - name: Date of Birth
-      value: 14th March 1879
+    - name: Nationality
+      value: Italian
+    - name: ORCID
+      value: <a href="https://orcid.org/0000-0002-4129-6632">0000-0002-4129-6632</a>
     - name: Languages
-      value: English, German
+      value: Italian (native), English (fluent)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD in Molecular and Translational Medicine
+      institution: University of Milano - Bicocca, Milan, Italy
+      year: 2011-2014
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - "Thesis: Cardiac arrhythmias of genetic origin modelled with human induced pluripotent stem cells (hiPSCs)"
+        - "Supervisor: Prof. Antonio Zaza"
+    - title: Master Degree in Industrial Biotechnology (cum laude)
+      institution: University of Milano - Bicocca, Milan, Italy
+      year: 2009-2011
+    - title: Bachelor Degree in Biotechnology
+      institution: University of Milano - Bicocca, Milan, Italy
+      year: 2006-2009
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Junior PI
+      institution: Laboratory of Cardiovascular Genetics, Istituto Auxologico Italiano IRCCS
+      year: 2025-current
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - "Center for Cardiac Arrhythmias of Genetic Origin, Director: Peter J. Schwartz"
+    - title: Assistant Professor of Physiology (RTD-A)
+      institution: Department of Biotechnology and Biosciences, University of Milano - Bicocca
+      year: 2022-2025
+    - title: Affiliated Researcher
+      institution: Laboratory of Cardiovascular Genetics, Istituto Auxologico Italiano IRCCS
+      year: 2018-2025
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - "Center for Cardiac Arrhythmias of Genetic Origin, Director: Peter J. Schwartz"
+    - title: Postdoctoral Fellow
+      institution: Department of Anatomy & Embryology, Leiden University Medical Center (LUMC)
+      year: 2015-2017
       description:
+        - "Supervisor: Prof. Christine L. Mummery"
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Funding and Awards
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
+    - year: 2022-2025
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - "Junior PI Grant - NextGenerationEU (MSCA-IF)"
+    - year: 2022-2033
       items:
-        - Max Planck Medal
+        - Abilitazione Scientifica Nazionale - National Scientific Qualification for Associate Professorship (05/D1 - Physiology)
+    - year: 2021-2023
+      items:
+        - "Early Career Grant - CARIPLO Foundation"
+    - year: 2018-2021
+      items:
+        - "EU H2020 Marie Skłodowska-Curie Individual Fellowship"
 
-- title: Academic Interests
+- title: Research Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Disease Modelling
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Human induced pluripotent stem cells (hiPSCs) for studying genetic variants in cardiac arrhythmias
+        - Genotype-phenotype relationships for Long QT Syndrome and Calmodulinopathies
+    - title: Electrophysiology and Technologies
       items:
-        - Description 1.
-        - Description 2.
+        - Single-cell and multicellular electrophysiological characterization
+        - Cardiac spheroids/organoids, contraction analysis (MUSCLEMOTION, BAPTA)
+    - title: Pharmacology
+      items:
+        - Drug-induced cardiotoxicity assessment
+        - Drug repurposing and safety pharmacology screening with patient-specific models
 
-- title: Other Interests
+- title: Scientific Societies and Reviewing
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - "Ordinary Nucleus Member, ESC European Working Group on Cardiac Cellular Electrophysiology (2024-2026)"
+    - "Member, International Society for Stem Cell Research (ISSCR) (2020-present)"
+    - "Member, ESC Working Group on Cardiac Cellular Electrophysiology (2011-present)"
+    - "Expert Evaluator, Swiss National Science Foundation (2022-present)"
+    - "Expert Evaluator, Marie Skłodowska-Curie Actions, Horizon Europe (2022-present)"
+    - "Peer Reviewer: Nature Communications, Stem Cell Reports, Europace, European Heart Journal, British Journal of Pharmacology, and others"

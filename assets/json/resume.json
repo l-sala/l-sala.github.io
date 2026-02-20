@@ -3,7 +3,7 @@
     "name": "Luca Sala",
     "label": "PhD",
     "image": "",
-    "summary": "My work is focussed on the study of congenital and acquired cardiac arrhythmias with human and patient-specific in vitro models based on human induced pluripotent stem cells. With my research, I aim to to understand the complexity of genotype-phenotype relationships for cardiac arrhythmias and to use in vitro data to provide relevant information to clinicians for patient risk-stratification and precision medicine. To ultimately reduce the need of animals in pharmacological and toxicological research, I aim to optimise current drug screening platforms by using patient-specific human-based models and advanced hardware and software tools.",
+    "summary": "Scientist with expertise in cardiac cellular electrophysiology, human induced pluripotent stem cell (hiPSC) technology, and precision medicine. Research activity focuses on disease modelling of inherited cardiac diseases, development of advanced electrophysiological technologies for phenotypic screening, and identification of novel therapeutic strategies for congenital and acquired arrhythmias, with a commitment to new approach methodologies (NAMs) as complementary methods to animal models.",
     "location": {
       "address": "Via Giuseppe Zucchi 18",
       "postalCode": "20095",
@@ -13,6 +13,11 @@
     },
     "profiles": [
       {
+        "network": "LinkedIn",
+        "username": "l-sala",
+        "url": "https://www.linkedin.com/in/l-sala"
+      },
+      {
         "network": "X",
         "username": "luca__sala",
         "url": "https://x.com/Luca__Sala"
@@ -21,51 +26,112 @@
   },
   "work": [
     {
-      "name": "Department of Biotechnologies and Biosciences - University of Milano - Bicocca",
+      "name": "Istituto Auxologico Italiano IRCCS",
+      "position": "Junior PI, Laboratory of Cardiovascular Genetics",
+      "startDate": "2025",
+      "endDate": "",
+      "summary": "Center for Cardiac Arrhythmias of Genetic Origin, Director: Peter J. Schwartz",
+      "highlights": [
+        "Leading cellular electrophysiology and drug screening on iPSCs",
+        "Investigating genotype-phenotype relationships in cardiac channelopathies"
+      ]
+    },
+    {
+      "name": "University of Milano - Bicocca",
       "position": "Assistant Professor of Physiology (RTD-A)",
-      "startDate": "2022-12-20",
-      "endDate": "today",
-      "summary": "Investigating the reasons behind incomplete penetrance and variable expressivity in congenital Long QT Syndrome",
-      "highlights": []
+      "startDate": "2022",
+      "endDate": "2025",
+      "summary": "Department of Biotechnology and Biosciences",
+      "highlights": [
+        "Investigating the reasons behind incomplete penetrance and variable expressivity in congenital Long QT Syndrome"
+      ]
     },
     {
-      "name": "Center for Cardiac Arrhythmias of Genetic Origin and Laboratory of Cardiovascular Genetics - Istituto Auxologico Italiano",
-      "supervisor": "Peter J Schwartz",
+      "name": "Istituto Auxologico Italiano IRCCS",
       "position": "Affiliated Researcher",
-      "startDate": "2022-12-20",
-      "endDate": "today",
-      "summary": "Patient-specific disease model for congenital and acquired cardiac disorders",
-      "highlights": []
+      "startDate": "2018",
+      "endDate": "2025",
+      "summary": "Center for Cardiac Arrhythmias of Genetic Origin, Director: Peter J. Schwartz",
+      "highlights": [
+        "Patient-specific disease model for congenital and acquired cardiac disorders"
+      ]
     },
     {
-      "name": "Department of Anatomy and Embryology - Leiden University Medical Center",
-      "supervisor": "Christine L Mummery",
+      "name": "Leiden University Medical Center (LUMC)",
       "position": "Postdoctoral Fellow",
-      "startDate": "2015-02-01",
-      "endDate": "2017-12-31",
-      "summary": "",
-      "highlights": []
+      "startDate": "2015",
+      "endDate": "2017",
+      "summary": "Department of Anatomy & Embryology, Supervisor: Prof. Christine L. Mummery",
+      "highlights": [
+        "Development of MUSCLEMOTION software for cardiac contraction analysis",
+        "hERG allosteric modulator for Long QT Syndrome rescue"
+      ]
     }
   ],
   "education": [
     {
       "institution": "University of Milano - Bicocca",
       "location": "Milan, Italy",
-      "url": "https://www.unimib.it/",
-      "area": "Long QT Syndrome modelled with human induced pluripotent stem cells (hiPSc)",
-      "studyType": "PhD in Molecular and Translational Medicine",
-      "startDate": "2011-11-01",
-      "endDate": "2014-12-12",
-      "score": ""
+      "area": "Molecular and Translational Medicine",
+      "studyType": "PhD",
+      "startDate": "2011",
+      "endDate": "2014",
+      "score": "",
+      "courses": [
+        "Thesis: Cardiac arrhythmias of genetic origin modelled with human induced pluripotent stem cells (hiPSCs)",
+        "Supervisor: Prof. Antonio Zaza"
+      ]
+    },
+    {
+      "institution": "University of Milano - Bicocca",
+      "location": "Milan, Italy",
+      "area": "Industrial Biotechnology",
+      "studyType": "Master Degree (cum laude)",
+      "startDate": "2009",
+      "endDate": "2011",
+      "score": "cum laude"
+    },
+    {
+      "institution": "University of Milano - Bicocca",
+      "location": "Milan, Italy",
+      "area": "Biotechnology",
+      "studyType": "Bachelor Degree",
+      "startDate": "2006",
+      "endDate": "2009"
     }
   ],
-
+  "awards": [
+    {
+      "title": "Junior PI Grant - NextGenerationEU (MSCA-IF)",
+      "date": "2022",
+      "awarder": "NextGenerationEU",
+      "summary": "Funding for research on cardiac arrhythmias caused by ion channel trafficking defects"
+    },
+    {
+      "title": "Abilitazione Scientifica Nazionale",
+      "date": "2022",
+      "awarder": "Italian Ministry of University",
+      "summary": "National Scientific Qualification for Associate Professorship in Physiology (05/D1)"
+    },
+    {
+      "title": "Early Career Grant - CARIPLO Foundation",
+      "date": "2021",
+      "awarder": "CARIPLO Foundation",
+      "summary": "Biomedical Research Conducted By Young Researchers"
+    },
+    {
+      "title": "EU H2020 Marie Skłodowska-Curie Individual Fellowship",
+      "date": "2018",
+      "awarder": "European Commission",
+      "summary": "PREMED-CARE: Precision Medicine with iPSCs for Cardiac Arrhythmias Risk Evaluation"
+    }
+  ],
   "skills": [
     {
       "name": "Stem Cell Biology",
       "level": "Master",
       "icon": "fa-solid fa-flask",
-      "keywords": ["Human induced pluripotent stem cells", "Cardiac Differentiation", ""]
+      "keywords": ["Human induced pluripotent stem cells", "Cardiac Differentiation", "Disease Modelling"]
     },
     {
       "name": "Cellular Electrophysiology",

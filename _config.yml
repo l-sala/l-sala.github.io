@@ -8,7 +8,7 @@ middle_name:
 last_name: Sala
 email:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Luca Sala - Cardiac electrophysiology, disease modelling with human induced pluripotent stem cells, and precision medicine for cardiac arrhythmias.
 footer_text: >
   Made with ❤️ in Italy.
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
@@ -81,13 +81,13 @@ flickr_id: # your flickr id
 github_username: l-sala # your GitHub user name
 gitlab_username: # your GitLab user name
 ieee_id: # your ieeexplore.ieee.org/author/id
-inspirehep_id: 1010907 # Inspire HEP author ID
+inspirehep_id: # Inspire HEP author ID
 instagram_id: # your instagram id
 kaggle_id: # your kaggle id
 keybase_username: # your keybase user name
 lastfm_id: # your lastfm id
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
-linkedin_username: # your LinkedIn user name
+linkedin_username: l-sala # your LinkedIn user name
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 medium_username: # your Medium username
 orcid_id: 0000-0002-4129-6632 # your ORCID ID
@@ -112,8 +112,7 @@ x_username: luca__sala # your X handle
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
-contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+contact_note:
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -640,7 +639,6 @@ jsonresume:
   - education
   - publications
   - projects
-  - volunteer
   - awards
   - certificates
   - skills
