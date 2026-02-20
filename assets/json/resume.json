@@ -42,9 +42,7 @@
       "startDate": "2022",
       "endDate": "2025",
       "summary": "Department of Biotechnology and Biosciences",
-      "highlights": [
-        "Investigating the reasons behind incomplete penetrance and variable expressivity in congenital Long QT Syndrome"
-      ]
+      "highlights": ["Investigating the reasons behind incomplete penetrance and variable expressivity in congenital Long QT Syndrome"]
     },
     {
       "name": "Istituto Auxologico Italiano IRCCS",
@@ -52,9 +50,7 @@
       "startDate": "2018",
       "endDate": "2025",
       "summary": "Center for Cardiac Arrhythmias of Genetic Origin, Director: Peter J. Schwartz",
-      "highlights": [
-        "Patient-specific disease model for congenital and acquired cardiac disorders"
-      ]
+      "highlights": ["Patient-specific disease model for congenital and acquired cardiac disorders"]
     },
     {
       "name": "Leiden University Medical Center (LUMC)",
@@ -62,10 +58,7 @@
       "startDate": "2015",
       "endDate": "2017",
       "summary": "Department of Anatomy & Embryology, Supervisor: Prof. Christine L. Mummery",
-      "highlights": [
-        "Development of MUSCLEMOTION software for cardiac contraction analysis",
-        "hERG allosteric modulator for Long QT Syndrome rescue"
-      ]
+      "highlights": ["Development of MUSCLEMOTION software for cardiac contraction analysis", "hERG allosteric modulator for Long QT Syndrome rescue"]
     }
   ],
   "education": [
