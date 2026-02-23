@@ -31,7 +31,7 @@ back_to_top: true # set to false to disable the back to top button
 repo_theme_light: default # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_theme_dark: tokyonight # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_trophies:
-  enabled: true
+  enabled: false
   theme_light: flat # https://github.com/ryo-ma/github-profile-trophy
   theme_dark: tokyonight # https://github.com/ryo-ma/github-profile-trophy
 
@@ -633,6 +633,12 @@ third_party_libraries:
 jekyll_get_json:
   - data: resume
     json: assets/json/resume.json # it can also be an url
+  - data: github_repos_musclemotion
+    json: https://api.github.com/repos/l-sala/MUSCLEMOTION
+  - data: github_repos_bapta
+    json: https://api.github.com/repos/l-sala/BAPTA
+  - data: github_repos_thorlabs
+    json: https://api.github.com/repos/l-sala/Thorlabs_Kiralux_Concatenate_Files
 jsonresume:
   - basics
   - work

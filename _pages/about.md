@@ -25,5 +25,33 @@ To ultimately reduce the need for animals in pharmacological and toxicological r
 
 In my free time, I like to code 👨🏻‍💻, ride my mountain bike 🚵🏻‍♂️ and run 🏃🏻.
 
-{% include figure.liquid loading="eager" path="assets/img/home.gif" class="img-fluid
-      rounded z-depth-1" alt="Welcome Image" %}
+## Research themes
+
+<div class="row row-cols-1 row-cols-md-3 g-4 mt-1 mb-4">
+  <div class="col">
+    <div class="card h-100">
+      <div class="card-body">
+        <h5 class="card-title">Disease Modelling</h5>
+        <p class="card-text">Patient-specific hiPSC-derived cardiomyocytes to study genotype-phenotype relationships in Long QT Syndrome and calmodulinopathies.</p>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card h-100">
+      <div class="card-body">
+        <h5 class="card-title">Electrophysiology & Technology</h5>
+        <p class="card-text">Single-cell and multicellular recordings, contraction analysis, and machine learning for patient risk stratification.</p>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card h-100">
+      <div class="card-body">
+        <h5 class="card-title">Drug Screening & Precision Medicine</h5>
+        <p class="card-text">Human-based platforms for cardiotoxicity assessment, drug repurposing, safety pharmacology, and new approach methodologies (NAMs) to reduce animal testing.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+{% include figure.liquid loading="eager" path="assets/img/home.gif" class="img-fluid rounded z-depth-1" alt="The beauty of voltage imaging in hiPSC-derived cardiomyocytes" caption="The beauty of voltage imaging in hiPSC-derived cardiomyocytes" %}
