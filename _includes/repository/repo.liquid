@@ -3,13 +3,13 @@
 {% assign repo_name = repo_url[1] %}
 
 {% comment %}Map repository name to the jekyll_get_json data key{% endcomment %}
-{% assign repo_data = nil %}
+{% assign repo_data = null %}
 {% assign repo_name_lower = repo_name | downcase %}
-{% if repo_name_lower == "musclemotion" %}
+{% if repo_name_lower == 'musclemotion' %}
   {% assign repo_data = site.data.github_repos_musclemotion %}
-{% elsif repo_name_lower == "bapta" %}
+{% elsif repo_name_lower == 'bapta' %}
   {% assign repo_data = site.data.github_repos_bapta %}
-{% elsif repo_name_lower == "thorlabs_kiralux_concatenate_files" %}
+{% elsif repo_name_lower == 'thorlabs_kiralux_concatenate_files' %}
   {% assign repo_data = site.data.github_repos_thorlabs %}
 {% endif %}
 
