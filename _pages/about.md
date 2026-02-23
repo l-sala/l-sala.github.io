@@ -25,7 +25,7 @@ To ultimately reduce the need for animals in pharmacological and toxicological r
 
 In my free time, I like to code 👨🏻‍💻, ride my mountain bike 🚵🏻‍♂️ and run 🏃🏻.
 
-## Research themes
+## Research areas
 
 <div class="row row-cols-1 row-cols-md-3 g-4 mt-1 mb-4">
   <div class="col">
