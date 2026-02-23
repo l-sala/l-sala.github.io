@@ -27,10 +27,11 @@ In my free time, I like to code 👨🏻‍💻, ride my mountain bike 🚵🏻�
 
 ## Research areas
 
-<div class="row row-cols-1 row-cols-md-3 g-4 mt-1 mb-4">
+<div class="research-areas row row-cols-1 row-cols-md-3 g-4 mt-1 mb-4">
   <div class="col">
     <div class="card h-100">
       <div class="card-body">
+        <div class="research-icon">🧬</div>
         <h5 class="card-title">Disease Modelling</h5>
         <p class="card-text">Patient-specific hiPSC-derived cardiomyocytes to study genotype-phenotype relationships in Long QT Syndrome and calmodulinopathies.</p>
       </div>
@@ -39,6 +40,7 @@ In my free time, I like to code 👨🏻‍💻, ride my mountain bike 🚵🏻�
   <div class="col">
     <div class="card h-100">
       <div class="card-body">
+        <div class="research-icon">⚡️</div>
         <h5 class="card-title">Electrophysiology & Technology</h5>
         <p class="card-text">Single-cell and multicellular recordings, contraction analysis, and machine learning for patient risk stratification.</p>
       </div>
@@ -47,6 +49,7 @@ In my free time, I like to code 👨🏻‍💻, ride my mountain bike 🚵🏻�
   <div class="col">
     <div class="card h-100">
       <div class="card-body">
+        <div class="research-icon">💊</div>
         <h5 class="card-title">Drug Screening & Precision Medicine</h5>
         <p class="card-text">Human-based platforms for cardiotoxicity assessment, drug repurposing, safety pharmacology, and new approach methodologies (NAMs) to reduce animal testing.</p>
       </div>
