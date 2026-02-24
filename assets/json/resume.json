@@ -27,6 +27,7 @@
   "work": [
     {
       "name": "Istituto Auxologico Italiano IRCCS",
+      "location": "Milan, Italy",
       "position": "Junior PI, Laboratory of Cardiovascular Genetics",
       "startDate": "2025",
       "endDate": "",
@@ -38,6 +39,7 @@
     },
     {
       "name": "University of Milano - Bicocca",
+      "location": "Milan, Italy",
       "position": "Assistant Professor of Physiology (RTD-A)",
       "startDate": "2022",
       "endDate": "2025",
@@ -46,6 +48,7 @@
     },
     {
       "name": "Istituto Auxologico Italiano IRCCS",
+      "location": "Milan, Italy",
       "position": "Affiliated Researcher",
       "startDate": "2018",
       "endDate": "2025",
@@ -54,6 +57,7 @@
     },
     {
       "name": "Leiden University Medical Center (LUMC)",
+      "location": "Leiden, The Netherlands",
       "position": "Postdoctoral Fellow",
       "startDate": "2015",
       "endDate": "2017",
