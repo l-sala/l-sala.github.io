@@ -1,7 +1,8 @@
 {
   "permissions": {
     "allow": [
-      "WebFetch(domain:l-sala.github.io)"
+      "WebFetch(domain:l-sala.github.io)",
+      "Bash(npx prettier .claude/settings.local.json --check 2>&1)"
     ]
   }
 }
