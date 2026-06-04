@@ -1,9 +1,11 @@
 github_users:
   - l-sala
+  - invitroheart
 
 repo_description_lines_max: 2
 
 github_repos:
+  - invitroheart/2026_Khudiakov_et_al_Cardiovasc_Res
   - l-sala/MUSCLEMOTION
   - l-sala/BAPTA
   - l-sala/Thorlabs_Kiralux_Concatenate_Files
