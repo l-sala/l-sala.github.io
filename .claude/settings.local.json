@@ -2,7 +2,17 @@
   "permissions": {
     "allow": [
       "WebFetch(domain:l-sala.github.io)",
-      "Bash(npx prettier .claude/settings.local.json --check 2>&1)"
+      "Bash(npx prettier .claude/settings.local.json --check 2>&1)",
+      "mcp__claude_ai_PubMed__get_article_metadata",
+      "WebFetch(domain:pubs.aip.org)",
+      "mcp__claude_ai_PubMed__search_articles",
+      "WebFetch(domain:doi.org)",
+      "WebFetch(domain:scholar.google.com)",
+      "WebFetch(domain:www.semanticscholar.org)",
+      "WebFetch(domain:www.bing.com)",
+      "WebSearch",
+      "Bash(npx prettier *)",
+      "Bash(npm install *)"
     ]
   }
 }

@@ -70,6 +70,18 @@
   url: https://www.sciencedirect.com/journal/expert-systems-with-applications
   color: "#0072CE"
 
+"PharmRes":
+  url: https://www.sciencedirect.com/journal/pharmacological-research
+  color: "#0072CE"
+
+"BiosBioelec":
+  url: https://www.sciencedirect.com/journal/biosensors-and-bioelectronics
+  color: "#0072CE"
+
+"BPR":
+  url: https://pubs.aip.org/aip/bpr
+  color: "#005A9C"
+
 "medRxiv":
   url: https://www.medrxiv.org/
   color: "#0D47A1"
