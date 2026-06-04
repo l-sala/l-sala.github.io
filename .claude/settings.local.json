@@ -12,7 +12,10 @@
       "WebFetch(domain:www.bing.com)",
       "WebSearch",
       "Bash(npx prettier *)",
-      "Bash(npm install *)"
+      "Bash(npm install *)",
+      "Bash(lychee --version)",
+      "Bash(brew list *)",
+      "Bash(brew install *)"
     ]
   }
 }
