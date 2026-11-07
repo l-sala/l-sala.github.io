@@ -121,6 +121,10 @@
   url: https://onlinelibrary.wiley.com/journal/17481716
   color: "#6B2D5B"
 
+"JPhysiol":
+  url: https://physoc.onlinelibrary.wiley.com/journal/14697793
+  color: "#6B2D5B"
+
 "AER":
   url: https://www.aerjournal.com/
   color: "#CC0000"
