@@ -229,6 +229,7 @@ kramdown:
 include: ["_pages"]
 exclude:
   - bin/
+  - compose-dev.yaml
   - CONTRIBUTING.md
   - CUSTOMIZE.md
   - Dockerfile
@@ -245,6 +246,7 @@ exclude:
   - purgecss.config.js
   - README.md
   - readme_preview/
+  - requirements.txt
   - vendor
 keep_files:
   - CNAME
